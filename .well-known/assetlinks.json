@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "dev.pages.lsptk25.twa",
+        "sha256_cert_fingerprints": ["56:A2:E0:B2:C0:2E:77:B9:91:1F:4A:7B:C2:8E:1D:00:8A:84:F3:02:A4:53:0A:66:B5:F1:8A:0A:51:89:84:DD"]
+      }
+    }]
